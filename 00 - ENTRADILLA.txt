@@ -1,0 +1,11 @@
+Modelo Entidad-Relación y Modelo Relacional
+
+    Teniendo en cuenta las fases del diseño de una Base de Datos, nos vamos a centrar en:
+
+        *el diseño conceptual, utilizando como modelo de datos el modelo Entidad-Relación (MER)
+
+        *el diseño lógico, utilizando como modelo de datos el modelo relacional. 
+	Vamos a ver las reglas de transformación del MER (Chen) al relacional (Codd)
+
+        *normalización, proceso para obligar a los atributos de un diseño lógico a 
+	cumplir ciertas formas normales. El objetivo es refinar el diseño de la Base de Datos.
